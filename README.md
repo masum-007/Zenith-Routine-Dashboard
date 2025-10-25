@@ -47,7 +47,7 @@ cd YOUR-REPOSITORY-NAME
 2. Create and Activate a Virtual Environment:
 This project uses a virtual environment (.venv) to manage dependencies.
 
-On Windows (PowerShell):
+# On Windows (PowerShell):
 
 # Create the environment
 python -m venv .venv
@@ -55,7 +55,7 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 
 
-On Windows (Command Prompt):
+# On Windows (Command Prompt):
 
 # Create the environment
 python -m venv .venv
